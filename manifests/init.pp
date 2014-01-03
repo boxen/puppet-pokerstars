@@ -4,8 +4,8 @@
 #
 #   include pokerstars
 class pokerstars {
-  package { 'PokerStars.net.app':
+  package { 'PokerStars.app':
     provider => 'compressed_app',
-    source   => 'http://www.pokerstars.net/PokerStars.net.app.zip'
+    source   => 'http://www.pokerstars.com/PokerStars.app.zip'
   }
 }

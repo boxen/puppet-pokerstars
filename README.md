@@ -1,6 +1,6 @@
-# Pokerstars.net Puppet Module for Boxen
+# Pokerstars Puppet Module for Boxen
 
-Installs [Pokerstars Client](http://www.pokerstars.net), the world's biggest play money only online poker room.
+Installs [Pokerstars Client](http://www.pokerstars.com), the world's largest poker site.
 
 ## Usage
 
