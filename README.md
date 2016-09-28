@@ -1,19 +1,7 @@
 # Pokerstars Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-pokerstars.svg)](https://travis-ci.org/boxen/puppet-pokerstars)
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-Installs [Pokerstars Client](http://www.pokerstars.com), the world's largest poker site.
-
-## Usage
-
-```puppet
-include pokerstars
-```
-
-## Required Puppet Modules
-
-* `boxen`
-
-## Development
-
-Write code. Run `script/cibuild` to test it. Check the `script` directory for other useful tools.
+[1]: https://caskroom.github.io/
+[2]: https://github.com/boxen/puppet-boxen/blob/master/manifests/personal.pp#L14-L17
